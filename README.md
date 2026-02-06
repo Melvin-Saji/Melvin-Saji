@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melvin Saji</h1>
-<h3 align="center">I'm a first-year software engineering student with a passion for building innovative solutions and exploring the intersections of programming, cybersecurity, and engineering.</h3>
+<h3 align="center">Software Engineering Student at Monash University (2025-2029) | Based in Melbourne, Australia</h3>
+<h4 align="center">I'm a first-year software engineering student with a passion for building innovative solutions and exploring the intersections of programming, cybersecurity, and engineering.</h3>
 
 - 📫 How to reach me **melvinvattappara@gmail.com**
 
