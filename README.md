@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a first-year software engineering student with a passion for building innovative solutions and exploring the intersections of programming, cybersecurity, and engineering.</p>
+<p align="left">I'm a second-year software engineering student with a passion for building innovative solutions and exploring the intersections of programming, research, and engineering.</p>
 
 ###
 
